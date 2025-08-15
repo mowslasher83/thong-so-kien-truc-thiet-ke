@@ -1,6 +1,7 @@
 {
   "name": "thong-so-kien-truc-thiet-ke",
   "version": "1.0.0",
+  "description": "Dự án sử dụng Webpack để xây dựng",
   "main": "dist/bundle.js",
   "scripts": {
     "build": "webpack"
