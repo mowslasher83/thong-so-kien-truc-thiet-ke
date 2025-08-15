@@ -1,0 +1,13 @@
+{
+  "name": "thong-so-kien-truc-thiet-ke",
+  "version": "1.0.0",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
+  }
+}
