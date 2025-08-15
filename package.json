@@ -6,7 +6,9 @@
   "scripts": {
     "build": "webpack"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"  // Added express for backend server support
+  },
   "devDependencies": {
     "webpack": "^5.0.0",
     "webpack-cli": "^4.0.0"
