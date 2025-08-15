@@ -7,7 +7,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "express": "^4.17.1"  // Đã thêm express để hỗ trợ máy chủ backend
+    "express": "^4.17.1" // Đã thêm express để hỗ trợ máy chủ backend
   },
   "devDependencies": {
     "webpack": "^5.0.0",
